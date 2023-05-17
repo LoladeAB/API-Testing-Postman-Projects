@@ -26,7 +26,7 @@
 - Newman: Command-line companion for Postman, used for running tests.
 - Newman Reporter HTML Extra: A Newman reporter that generates HTML reports with additional details.
  
-7. 5. Newman report 
+7. Newman report 
   
   
 ![Screenshot 2023-05-17 at 20 14 48](https://github.com/LoladeAB/API-Testing-Postman-Projects/assets/133910318/fbadee91-6311-495f-8dcb-9e5ce68b1b48)
@@ -38,5 +38,5 @@
   
   
  
-8. Contributions
-Contributions are welcome! To contribute to this project
+8. Contributions :
+Contributions are welcome! 
